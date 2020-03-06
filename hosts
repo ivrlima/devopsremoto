@@ -1,7 +1,10 @@
 127.0.0.1	localhost
 127.0.1.1	debian9
+<<<<<<< HEAD
 
 10.0.3.15       debian9
 10.0.3.20       interno
 10.0.4.22       intranet
 10.0.4.23       srvsave22
+=======
+>>>>>>> parent of 0711d0e... Primeiro commit na branch config1
